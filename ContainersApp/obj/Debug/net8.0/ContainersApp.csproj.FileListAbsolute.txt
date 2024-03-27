@@ -1,0 +1,14 @@
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\bin\Debug\net8.0\ContainersApp.exe
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\bin\Debug\net8.0\ContainersApp.deps.json
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\bin\Debug\net8.0\ContainersApp.runtimeconfig.json
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\bin\Debug\net8.0\ContainersApp.dll
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\bin\Debug\net8.0\ContainersApp.pdb
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.dll
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\refint\ContainersApp.dll
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.pdb
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ContainersApp.genruntimeconfig.cache
+C:\Users\user\RiderProjects\ContainersApp\ContainersApp\obj\Debug\net8.0\ref\ContainersApp.dll
